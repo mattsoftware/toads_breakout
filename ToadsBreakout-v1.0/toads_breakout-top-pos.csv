@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","4.7uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",134.162500,-124.600000,180.000000,top
+"C2","4.7uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",134.162500,-127.600000,180.000000,top
+"D1","~","D_SOD-123FL",154.200000,-131.200000,90.000000,top
+"Q1","NPN","SOT-23_Handsoldering",152.700000,-104.650000,0.000000,top
+"R1","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",154.200000,-98.600000,-90.000000,top
+"RV1","10k","R_Potentiometer-10k-C361173",146.400000,-121.300000,-90.000000,top
+"RV2","10k","R_Potentiometer-10k-C361173",138.000000,-108.600000,90.000000,top
